@@ -61,8 +61,15 @@ text-decoration:none;
 }
 
 .hero{
+    height:60vh;
+    background:url(images/hero.jpg) center center/cover no-repeat;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-bottom-left-radius:30px;
+    border-bottom-right-radius:30px;
+    overflow:hidden;
 
-height:100vh;
 
 background:url(images/hero.jpg) center/cover;
 
